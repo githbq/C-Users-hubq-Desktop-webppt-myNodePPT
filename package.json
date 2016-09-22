@@ -3,7 +3,8 @@
   "jsname": "nodeppt",
   "scripts": {
     "start": "nodeppt start -p 7788",
-    "watch": "nodeppt start -w -p 7788"
+    "watch": "nodeppt start -w -p 7788",
+    "demo": "cd ./ppts && nodeppt start -w -p 7799"
   },
   "description": "A simple, in-browser, markdown-driven presentation framework",
   "version": "1.4.2",
