@@ -84,7 +84,7 @@ function globalCallbackName(e){
 
 对应的图片路径是 `slide/img/demo.png`
 
-使用 `nodeppt generate demo.md output -a` 则生成后，图片路径是：`output/img/demo.png`
+使用 `nodeppt generate demo.md output -a` 则生成后，图片路径是：`output/img/demo.png``
 
 
 ## magic

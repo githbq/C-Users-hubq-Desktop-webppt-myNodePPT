@@ -106,7 +106,7 @@ nodeppt：https://github.com/ksky521/nodePPT
 ## 表格示例
 ### 市面上主要的css预处理器：Less\Sass\Stylus
 ---
-| Less | Sass | Stylus2
+| Less | Sass | Stylus
 :-------|:------:|-------:|--------
 环境 |js/nodejs | Ruby(这列右对齐) | nodejs(高亮) {:.highlight}
 扩展名 | .less | .scss/.sass | .styl
