@@ -4,7 +4,7 @@ url: https://github.com/ksky521/nodePPT
 transition:slide2
 files: /js/demo.js,/css/demo.css
 theme:moon
-[slide]
+[slide data-transition="zoomin"]
 
 #  汇聚前端angular架构分享
 ## 演讲者：汇聚前端组
